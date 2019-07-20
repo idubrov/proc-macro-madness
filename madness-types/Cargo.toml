@@ -1,0 +1,12 @@
+[package]
+name = "madness-types"
+version = "0.1.0"
+authors = ["Ivan Dubrov <dubrov.ivan@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+madness-macro = { path = "../madness-macro" }
+
+[features]
+direct = []
+desugar = []

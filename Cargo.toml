@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "madness-gen",
+    "madness-macro",
+    "madness-types",
+]
